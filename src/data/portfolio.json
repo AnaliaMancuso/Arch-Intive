@@ -1,0 +1,98 @@
+[
+    {
+        "proyect": {
+            "id": "4",
+            "title": "seraph station",
+            "date": "september 2019",
+            "imageClass": "imgseraph"
+        }
+    },
+    {
+        "proyect": {
+            "id": "6",
+            "title": "eebox building",
+            "date":"august 2017",
+            "imageClass": "imgeebox"
+        }
+    },
+    {
+        "proyect": {
+            "id": "5",
+            "title": "federal II tower",
+            "date":"march 2017",
+            "imageClass": "imgfederal"
+        }
+    },
+    {
+        "proyect": {
+            "id": "1",
+            "title": "project del sol",
+            "date":"january 2016",
+            "imageClass": "imgsol"
+        }
+    },
+    {
+        "proyect": {
+            "id": "2",
+            "title": "2288 tower",
+            "date":"april 2015",
+            "imageClass": "img228b"
+        }
+    },
+    {
+        "proyect": {
+            "id": "3",
+            "title": "le prototype",
+            "date":"october 2015",
+            "imageClass": "imgproto"
+        }
+    },
+    {
+        "proyect": {
+            "id": "7",
+            "title": "grand edelweiss hotel",
+            "date":"december 2013",
+            "imageClass": "imgedel"
+        }
+    },
+    {
+        "proyect": {
+            "id": "8",
+            "title": "netcry",
+            "date":"august 2012",
+            "imageClass": "imgnetcry"
+        }
+    },
+    {
+        "proyect": {
+            "id": "9",
+            "title": "hypers",
+            "date":"january 2012",
+            "imageClass": "imghyper"
+        }
+    },
+    {
+        "proyect": {
+            "id": "10",
+            "title": "SXIV tower",
+            "date":"march 2011",
+            "imageClass": "imgsxiv"
+        }
+    },
+    {
+        "proyect": {
+            "id": "11",
+            "title": "trinity bank tower",
+            "date":"september 2010",
+            "imageClass": "imgtrinity"
+        }
+    },
+    {
+        "proyect": {
+            "id": "12",
+            "title": "project paramour",
+            "date":"february 2008",
+            "imageClass": "imgparamour"
+        }
+    }
+]

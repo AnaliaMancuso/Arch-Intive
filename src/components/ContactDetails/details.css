@@ -1,0 +1,17 @@
+.details__container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    font-family: 'Spartan', sans-serif;
+    margin: 100px 0;
+}
+.details__container h3 {
+    text-transform: capitalize;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.details__container h3 {
+    text-transform: capitalize;
+    font-size: 2rem;
+    font-weight: 600;
+}

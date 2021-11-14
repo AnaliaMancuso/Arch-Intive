@@ -1,0 +1,41 @@
+@media (min-width: 700px) { 
+    .form-container {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        font-family: 'Spartan', sans-serif;
+        margin: 100px 0 0 0 ;
+    }
+    .form__title {
+        width: 50%;
+    }
+    .form__title h3{
+        font-size: 3rem;
+    }
+    .form__inputs {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+    }
+    .form__input {
+        border: none;
+        border-bottom: 2px solid #000000;
+        height: 50px;
+    }
+    .form__inputs textarea {
+        resize: none;
+    }
+    .form__inputs ::placeholder {
+        padding: 10px 0 0 20px;
+        font-family: 'Spartan', sans-serif;
+    }
+    .form__inputs button {
+        width: 50px;
+        height: 50px;
+        background-color: #000000;
+        align-self: flex-end;
+    }
+    .form__inputs button  svg {
+        stroke:#ffffff;
+    }
+}

@@ -1,0 +1,19 @@
+.card-leader-img {
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+.leader-card h3 {
+    text-transform: capitalize;
+}
+.leader-card h4 {
+    text-transform: capitalize;
+    font-weight: 200;
+    margin: 10px 0;
+}
+.leader-card img {
+    width: 30px;
+}

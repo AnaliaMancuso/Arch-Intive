@@ -1,0 +1,42 @@
+[
+    {
+        "leader": {
+            "id": "1",
+            "name": "jake richards",
+            "role": "chief architect",
+            "picture": "imgJake",
+            "instagram-link": "https://www.instagram.com/",
+            "twitter-link": "https://twitter.com/"
+        }
+    },
+    {
+        "leader": {
+            "id": "2",
+            "name": "thompson smith",
+            "role": "head of finance",
+            "picture": "imgThompson",
+            "instagram-link": "https://www.instagram.com/",
+            "twitter-link": "https://twitter.com/"
+        }
+    },
+    {
+        "leader": {
+            "id": "3",
+            "name": "jackson rourke",
+            "role": "lead designer",
+            "picture": "imgJackson",
+            "instagram-link": "https://www.instagram.com/",
+            "twitter-link": "https://twitter.com/"
+        }
+    },
+    {
+        "leader": {
+            "id": "4",
+            "name": "maria simpson",
+            "role": "senior architect",
+            "picture": "imgMaria",
+            "instagram-link": "https://www.instagram.com/",
+            "twitter-link": "https://twitter.com/"
+        }
+    }
+]

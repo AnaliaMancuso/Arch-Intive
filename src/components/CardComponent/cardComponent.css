@@ -1,0 +1,28 @@
+.card-component {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 300px;
+    box-shadow: inset 0 0 0 1000px rgb(17 16 19 / 45%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    text-transform: capitalize;
+  }
+  .card-component > div:first-child{
+    text-align: right;
+  }
+  .numberCard h2 {
+    font-size: 9rem;
+    color: rgba(211, 211, 211, 0.466);
+  }
+  .titleCard h3 {
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
+  .descriptionCard p{
+    color: #C8CCD8;
+    font-size: 1.2rem;
+  }
