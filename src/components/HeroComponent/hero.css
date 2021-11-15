@@ -18,6 +18,11 @@
     font-size: 3rem;
     text-transform: capitalize;
   }
+  .hero-text p {
+    text-transform: capitalize;
+    line-height: 1.5;
+    margin: 50px 0;
+  }
 }
 @media (max-width: 699px) { 
     .hero-container {
@@ -38,5 +43,10 @@
   .hero-text h3 {
     font-size: 3rem;
     text-transform: capitalize;
+  }
+  .hero-text p {
+    text-transform: capitalize;
+    line-height: 1.5;
+    margin: 50px 0;
   }
 }

@@ -1,6 +1,7 @@
 import twitter from '../../assets/twitter_icon.png';
 import instagram from '../../assets/instagram_icon.png';
 import style from './leaderCard.css';
+
 const LeaderCard = ({img, role, name}) => {
     return (
         <div className="leader-card">

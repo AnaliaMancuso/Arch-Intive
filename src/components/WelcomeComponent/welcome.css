@@ -1,40 +1,36 @@
 @media (min-width: 700px) { 
-    .welcome-container {
-        font-family: 'Spartan', sans-serif;
-        margin: auto;
-        padding: 200px;
-        overflow-x: hidden;
-      
-      }
-      .welcome-title {
-        font-size: 10rem;
-        color: #C8CCD8;
-        text-transform: capitalize;
-        margin: 0 -100px 0  -100px;
-        font-weight: 900;
-      }
-      .welcome-text p{
-        margin: 40px 0 0 0;
-        line-height: 1.8;
-      }
+  .welcome-container {
+    font-family: 'Spartan', sans-serif;
+    margin: auto;
+    padding: 200px;
+    overflow-x: hidden;
+  }
+  .welcome-title {
+    font-size: 10rem;
+    color: #C8CCD8;
+    text-transform: capitalize;
+    margin: 0 -100px 0  -100px;
+    font-weight: 900;
+  }
+  .welcome-text p{
+    margin: 40px 0 0 0;
+    line-height: 1.8;
+  }
       
 }
 @media (max-width: 699px) { 
-    .welcome-container {
-        font-family: 'Spartan', sans-serif;
-        margin: auto;
-     
-      }
-      .welcome-title {
-        font-size: 2rem;
-        color: #000000;
-        text-transform: capitalize;
-        font-weight: 900;
-      }
-
-      .welcome-text p{
-        margin: 40px 0 0 0;
-        line-height: 1.8;
-      }
-      
+  .welcome-container {
+    font-family: 'Spartan', sans-serif;
+    margin: 50px auto;
+  }
+  .welcome-title {
+    font-size: 2rem;
+    color: #000000;
+    text-transform: capitalize;
+    font-weight: 900;
+  }
+  .welcome-text p{
+    margin: 40px 0 0 0;
+    line-height: 1.8;
+  }
 }

@@ -3,4 +3,12 @@
     background-color: #000000;
     color: #ffffff;
     width: 200px;
+    border-color: #000000;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.button button svg{
+    stroke:#ffffff;
+    width: 26px;
+    height:20px;
 }

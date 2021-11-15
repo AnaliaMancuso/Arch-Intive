@@ -1,5 +1,6 @@
 import CardComponent from "../CardComponent/CardComponent"
 import dataPortfolio from '../../data/portfolio.json';
+import style from './portfolio.css';
 
 const PortfolioContainer = () => {
     return (

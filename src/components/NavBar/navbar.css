@@ -2,7 +2,7 @@
   .navBar-container {
     display: flex;
     overflow-x: hidden;
-    margin-bottom: 100px;
+    margin: 30px 0 100px 0;
   }
   .navBar-list {
     display: flex;

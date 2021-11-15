@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/logo-white.svg'
 import ButtonComponent from "../ButtonComponent/ButtonComponent";
 import footer from './footer.css';
 import { Link } from "react-router-dom";
@@ -27,10 +27,11 @@ const FooterComponent = () => {
                 </ul>
             </div>
         </div>
-        <div>
-            <ButtonComponent/>    
+        <div className="button-footer__container">
+            <Link to="/portfolio">
+                <ButtonComponent content="see our portfolio"/> 
+            </Link>   
         </div>
-        
     </div>
     )
 }
